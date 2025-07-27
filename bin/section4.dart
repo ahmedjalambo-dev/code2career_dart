@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main(List<String> args) {
   // calcGPA(200);
   // calcGPA(300);
