@@ -12,4 +12,3 @@ void main(List<String> args) {
     print('You are not eligible to vote yet');
   }
 }
- 
